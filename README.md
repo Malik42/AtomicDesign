@@ -1,7 +1,7 @@
 
 ## AtomicDesign
 
-Bienvenue dans notre support Atomic design des étoiles ! Tu trouveras notre lien en production : 
+Bienvenue dans notre super Atomic design des étoiles ! Tu trouveras notre lien en production : 
 
 
 
