@@ -9,7 +9,12 @@ Author URI: https://www.webpixels.io
 
 Copyright 2018 Webpixels
 
+
 */
+
+.text-primary {
+    background-color: #5147A0;
+}
 :root
 {
     --blue: #007aff;
